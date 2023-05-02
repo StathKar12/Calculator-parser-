@@ -1,0 +1,4 @@
+Compilation: 
+  gcc -c calculate.c
+Run:
+  ./calculate.o
